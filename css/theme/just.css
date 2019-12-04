@@ -219,6 +219,7 @@ body {
  *********************************************/
 .reveal ul,
 .reveal ol {
+  text-align: left;
   margin-bottom: 1em; }
 
 .reveal ul li {
