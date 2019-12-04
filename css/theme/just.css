@@ -84,6 +84,7 @@ body {
   font-family: Monaco, Consolas, monospace; }
 
 .reveal pre code {
+  text-align: left;
   padding: 8px 10px;
   font-size: 1.2rem; }
 
